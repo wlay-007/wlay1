@@ -1,0 +1,17 @@
+p {
+    background-color: cornsilk;
+    text-align: center;
+    font-size: 30px;
+    padding: 15px;
+    margin: 15px;
+    border: 100px, solid,black;
+    border-radius: 100px;
+    opacity: 1;
+}
+a {
+    color: black;
+}
+body {
+    background-image: url(white-capsules-on-yellow-background-3683056.jpg);
+    background-size: cover;
+}
